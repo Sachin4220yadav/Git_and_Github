@@ -1,0 +1,15 @@
+Git is a version control system that allows you to track changes to your files and collaborate with others. It is used to manage the history of your code and to merge changes from different branches. 
+
+
+Git is a Software and Github us software ko online host karne ke liye ek service hai
+GIT - SOFTWARE  
+GITHUB - ONLINE SERVICE
+
+
+write -> add -> commit
+
+GIT FLOW :
+         git init -> WORKING DIRECTORY 
+         git add -> STAGING AREA 
+         git commit -> REPO
+         git push -> GITHUB
