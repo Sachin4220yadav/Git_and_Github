@@ -13,3 +13,5 @@ GIT FLOW :
          git add -> STAGING AREA 
          git commit -> REPO
          git push -> GITHUB
+
+Author - Sachin Yadav
